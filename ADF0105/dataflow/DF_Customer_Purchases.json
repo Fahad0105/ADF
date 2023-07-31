@@ -6,7 +6,7 @@
 			"sources": [
 				{
 					"dataset": {
-						"referenceName": "DS_oltp_PurchaseOrder",
+						"referenceName": "DS_oltp_PurchaseOrder_Blob_Storage",
 						"type": "DatasetReference"
 					},
 					"name": "PurchaseOrder"
