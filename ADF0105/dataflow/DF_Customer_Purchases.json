@@ -22,7 +22,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "DS_PurchaseOrder_Oltp",
+						"referenceName": "DS_PurchaseOrder_Oltp_SQLDB",
 						"type": "DatasetReference"
 					},
 					"name": "Output"

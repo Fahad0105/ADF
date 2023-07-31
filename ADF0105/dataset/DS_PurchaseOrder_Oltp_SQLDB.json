@@ -1,5 +1,5 @@
 {
-	"name": "DS_PurchaseOrder_Oltp",
+	"name": "DS_PurchaseOrder_Oltp_SQLDB",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_demobits_db",
