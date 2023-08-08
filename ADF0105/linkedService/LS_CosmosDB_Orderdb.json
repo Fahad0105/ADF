@@ -1,0 +1,16 @@
+{
+	"name": "LS_CosmosDB_Orderdb",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "CosmosDb",
+		"typeProperties": {
+			"connectionString": "AccountEndpoint=https://newcosmos01.documents.azure.com:443/;Database=orderdb;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDcyN0NDNTJELTkwRTMtNDc4OS04REI2LTQ5REQ4N0I2N0RCM19iNGY4ZjE0MC03MjdiLTQ5ZWEtYTkxZS04MDdlNmI1MWRkYTAiDQp9"
+		},
+		"connectVia": {
+			"referenceName": "firstIR0105",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
